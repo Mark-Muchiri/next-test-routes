@@ -1,0 +1,10 @@
+.navbar{
+  position: relative;
+  top: 0rem;
+}
+
+.list {
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
